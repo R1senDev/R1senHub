@@ -1,0 +1,15 @@
+{
+    "cock.exe": [
+        "pp"
+    ],
+    "cowsay.exe": [
+        "moo"
+    ],
+    "meow.exe": [
+        "kitten"
+    ],
+    "multiping.exe": [
+        "pingmany",
+        "pingmultiple"
+    ]
+}
